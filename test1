@@ -1,1 +1,2 @@
-I have adjusted
+#!/bin/sh
+echo "I have adjusted"
